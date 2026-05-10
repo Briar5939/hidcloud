@@ -1,5 +1,4 @@
-# 文件路径: .github/workflows/main.yml
-name: HidenCloud Auto Renew (Python)
+name: Auto Run
 
 on:
   workflow_dispatch:
